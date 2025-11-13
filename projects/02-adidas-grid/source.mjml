@@ -1,0 +1,174 @@
+<mjml>
+  <mj-head>
+    <mj-title>We couldn't find your product</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-text font-size="14px" line-height="20px" color="#333333" />
+      <mj-section padding="0" />
+    </mj-attributes>
+    <mj-style>
+      a {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      .no-wrap div {
+        white-space: nowrap !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section background-color="#000000" padding="8px 0">
+      <mj-group vertical-align="middle">
+        <mj-column width="20%" vertical-align="middle" padding-left="10px">
+          <mj-image align="left" width="90px" src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/logo.png?raw=true" alt="Adidas Logo" />
+        </mj-column>
+        <mj-column width="49%" vertical-align="middle">
+          <mj-text color="#ffffff" font-size="11px" font-weight="900" align="center" letter-spacing="1px" padding="0">
+            <a href="#">MEN</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">WOMEN</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">KIDS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">CUSTOMIZE</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="3%">&nbsp;</mj-column>
+        <mj-column width="28%" vertical-align="middle" padding-right="10px">
+          <mj-text color="#ffffff" font-size="11px" font-weight="900" align="right" letter-spacing="1px" css-class="no-wrap">
+            STORE FINDER&nbsp;
+            <img src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/geoloc.png?raw=true" alt="Location Pin" width="20" style="vertical-align: middle;" />
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#000000" padding="40px 20px 20px 20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="42px" font-weight="bold" line-height="48px">
+          WE COULDN'T FIND<br />YOUR PRODUCT
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px" letter-spacing="1px" padding-top="10px">
+          IT'S STILL OUT OF STOCK
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image width="70px" src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/triangle.png?raw=true" alt="Separator" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="40px 20px 20px 20px">
+      <mj-column width="45%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/cybershock1/email-portfolio/main/projects/02-adidas-grid/assets/blueSnik.jpg" alt="Sneaker" />
+      </mj-column>
+      <mj-column width="55%" vertical-align="middle" padding-left="20px">
+        <mj-text font-weight="bold" padding-bottom="10px">THE PRODUCT YOU LOVE:</mj-text>
+        <mj-text color="#333333" font-size="14px" line-height="22px">
+          I-5923 Shoes<br />
+          <strong>Color:</strong> Off White / Blue / Core Red<br />
+          <strong>Size:</strong> 13
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="0 20px 30px 20px">
+      <mj-column>
+        <mj-text align="center" color="#555555">
+          After 14 days of searching, we were unable to find the product you love in your size.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="30px 20px 10px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="32px" letter-spacing="2px">RECOMMENDED FOR YOU</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding="10px 20px 40px 20px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/cybershock1/email-portfolio/main/projects/02-adidas-grid/assets/81UMBqf13nS._AC_UY900_.jpg" alt="Bag" />
+        <mj-text align="center" padding="10px 0">Wheeled Team Bag</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/cli.jpg?raw=true" alt="Cleats" />
+        <mj-text align="center" padding="10px 0">World Cup Cleats</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/cybershock1/email-portfolio/main/projects/02-adidas-grid/assets/45_1500.jpg" alt="Samba Shoes" />
+        <mj-text align="center" padding="10px 0">Samba Classic Shoes</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F2F2" padding="30px 20px 0px 20px">
+      <mj-column>
+        <mj-text line-height="22px">
+          <strong>men</strong><br />
+          <a href="#">Shoes</a><br />
+          <a href="#">Apparel</a><br />
+          <a href="#">Accessories</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="22px">
+          <strong>women</strong><br />
+          <a href="#">Shoes</a><br />
+          <a href="#">Apparel</a><br />
+          <a href="#">Accessories</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="22px">
+          <strong>kids</strong><br />
+          <a href="#">Shoes</a><br />
+          <a href="#">Apparel</a><br />
+          <a href="#">Accessories</a>
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/model.png?raw=true" alt="Models" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F2F2" padding="0 20px">
+      <mj-column>
+        <mj-divider border-color="#DDDDDD" border-width="1px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F2F2F2" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image width="30px" src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/support.png?raw=true" alt="Support" />
+        <mj-text align="center" font-weight="bold">SUPPORT</mj-text>
+        <mj-text align="center" font-size="12px" line-height="18px">
+          <a href="#">Contact Us</a><br />
+          <a href="#">Shipping</a><br />
+          <a href="#">Returns</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image width="30px" src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/profile.png?raw=true" alt="Manage" />
+        <mj-text align="center" font-weight="bold">MANAGE</mj-text>
+        <mj-text align="center" font-size="12px" line-height="18px">
+          <a href="#">Account</a><br />
+          <a href="#">Email Preferences</a><br />
+          <a href="#">Gift Card Balance</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-image width="30px" src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/network.png?raw=true" alt="Connect" />
+        <mj-text align="center" font-weight="bold">CONNECT</mj-text>
+        <mj-social font-size="15px" icon-size="24px" mode="horizontal" align="center">
+          <mj-social-element name="facebook" href="#" />
+          <mj-social-element name="instagram" href="#" />
+          <mj-social-element name="twitter" href="#" />
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-text align="center" font-size="11px" color="#888888" line-height="16px">
+          <a href="#">Privacy Statement</a> &nbsp;|&nbsp;
+          <a href="#">Update Preferences</a> &nbsp;|&nbsp;
+          <a href="#">Unsubscribe</a> &nbsp;|&nbsp;
+          <a href="#">adidas.com</a>
+        </mj-text>
+        <mj-text align="center" font-size="11px" color="#888888" line-height="16px">
+          © 2025 adidas America, Inc. adidas and the 3-Stripes mark are registered trademarks of the adidas Group
+          adidas America 5055 N. Greeley Avenue Portland, OR 97217 www.adidas.com
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
