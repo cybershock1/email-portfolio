@@ -1,0 +1,154 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dr. Squatch Mystery Discount</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+      <mj-text font-size="16px" line-height="24px" color="#000000" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!-- HERO SECTION -->
+    <mj-section background-color="#1E392A" padding="20px 0">
+      <mj-column>
+        <mj-image
+          src="https://github.com/cybershock1/email-portfolio/blob/main/projects/01-dr-squatch/assets/white.png?raw=true"
+          alt="Dr. Squatch Logo"
+          width="150px"
+          padding-bottom="30px"
+        />
+
+        <mj-text
+          align="center"
+          color="#E2D7C2"
+          font-size="14px"
+          letter-spacing="1px"
+        >
+          WE KNOW YOU WANT IT
+        </mj-text>
+
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-size="38px"
+          font-weight="bold"
+          line-height="44px"
+          padding-top="10px"
+        >
+          SO HERE'S A<br />MYSTERY DISCOUNT
+        </mj-text>
+
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-size="14px"
+          padding="20px 30px"
+        >
+          Reveal the offer amount by adding code: <strong>SMLSDVS</strong> at
+          checkout when you shop!
+        </mj-text>
+
+        <mj-button
+          href="#"
+          background-color="#D47D3F"
+          color="#FFFFFF"
+          font-size="14px"
+          font-weight="bold"
+          border-radius="8px"
+          width="200px"
+          padding-top="10px"
+        >
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- MAIN IMAGE SECTION -->
+    <mj-section background-color="#1E392A" padding="0 20px 40px 20px">
+      <mj-column>
+        <mj-image
+          src="https://github.com/cybershock1/email-portfolio/blob/main/projects/01-dr-squatch/assets/2.jpg?raw=true"
+          alt="Man holding Dr. Squatch soap"
+          border-radius="15px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- FOOTER SECTION -->
+    <mj-section background-color="#F5F5F1" padding="40px 0">
+      <mj-column>
+        <mj-image
+          src="https://github.com/cybershock1/email-portfolio/blob/main/projects/01-dr-squatch/assets/111.png?raw=true"
+          alt="Dr. Squatch Rewards"
+          width="150px"
+          padding-bottom="0"
+        />
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          font-weight="bold"
+          padding-top="20px"
+          line-height="28px"
+        >
+          SOAP<br />
+          BUNDLES<br />
+          DEODORANT<br />
+          SUBSCRIPTION
+        </mj-text>
+
+        <mj-text align="center" font-size="12px" padding-top="20px"
+          >contact support@drsquatch.com</mj-text
+        >
+
+        <mj-social
+          font-size="15px"
+          icon-size="24px"
+          mode="horizontal"
+          padding-top="20px"
+        >
+          <mj-social-element
+            name="instagram"
+            href="#"
+            background-color="#A99B89"
+          />
+          <mj-social-element
+            name="youtube"
+            href="#"
+            background-color="#A99B89"
+          />
+          <mj-social-element
+            name="facebook"
+            href="#"
+            background-color="#A99B89"
+          />
+          <mj-social-element
+            name="twitter"
+            href="#"
+            background-color="#A99B89"
+          />
+          <mj-social-element
+            name="tiktok"
+            href="#"
+            background-color="#A99B89"
+          />
+        </mj-social>
+
+        <mj-image
+          src="https://github.com/cybershock1/email-portfolio/blob/main/projects/01-dr-squatch/assets/Certified_B_Corporation_B_Corp_Logo_2022_Black_RGB.png?raw=true"
+          alt="Certified B Corporation"
+          width="80px"
+          padding-top="20px"
+        />
+
+        <mj-divider
+          border-width="1px"
+          border-color="#E0E0E0"
+          padding="30px 0"
+        />
+
+        <mj-text align="center" font-size="12px" line-height="18px">
+          <a href="#" style="color: #000000">Unsubscribe</a><br /><br />
+          Dr. Squatch, LLC 4065 Glencoe Ave Suite 300B Marina Del Rey, CA 90292
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
