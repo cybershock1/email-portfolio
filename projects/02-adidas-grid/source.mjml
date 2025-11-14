@@ -19,10 +19,10 @@
   <mj-body background-color="#ffffff" width="600px">
     <mj-section background-color="#000000" padding="8px 0">
       <mj-group vertical-align="middle">
-        <mj-column width="20%" vertical-align="middle" padding-left="10px">
+        <mj-column width="18%" vertical-align="middle" padding-left="10px">
           <mj-image align="left" width="90px" src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/logo.png?raw=true" alt="Adidas Logo" />
         </mj-column>
-        <mj-column width="49%" vertical-align="middle">
+        <mj-column width="45%" vertical-align="middle">
           <mj-text color="#ffffff" font-size="11px" font-weight="900" align="center" letter-spacing="1px" padding="0">
             <a href="#">MEN</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="#">WOMEN</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="3%">&nbsp;</mj-column>
-        <mj-column width="28%" vertical-align="middle" padding-right="10px">
+        <mj-column width="34%" vertical-align="middle" padding-right="10px">
           <mj-text color="#ffffff" font-size="11px" font-weight="900" align="right" letter-spacing="1px" css-class="no-wrap">
             STORE FINDER&nbsp;
             <img src="https://github.com/cybershock1/email-portfolio/blob/main/projects/02-adidas-grid/assets/geoloc.png?raw=true" alt="Location Pin" width="20" style="vertical-align: middle;" />
